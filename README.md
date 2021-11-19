@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Martin2166
-- 👀 I’m interested in Software engineering and AI
-- 🌱 I’m currently learning cs50
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning cs50x Introduction to computer science
 - 💞️ I’m looking to collaborate on cs50 problem sets
 - 📫 How to reach me ------> martinonsocial@gmail.com
 
